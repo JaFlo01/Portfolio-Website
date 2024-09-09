@@ -67,7 +67,7 @@ const typed = new Typed(".multiple-text", {
   strings: [
     "Software Engineer",
     "Web Developer",
-    "Mobile Developer",
+    "Android Developer",
     "Drummer",
   ],
   typeSpeed: 100,
